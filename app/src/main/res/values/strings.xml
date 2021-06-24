@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerViewWithDifferentItemLayouts</string>
+
+    <string name="movie_master">Master</string>
+    <string name="master_imdb">7.9/10</string>
+    <string name="master_director">Lokesh Kanagaraj</string>
+    <string name="master_actor1">Vijay</string>
+    <string name="master_actor2">Malavika Mohanan</string>
+    <string name="master_actor3">Vijay Sethupati </string>
+    <string name="master_actor4">Arjun Das</string>
+    <string name="master_actor5">Andrea Jeremiah</string>
+</resources>
